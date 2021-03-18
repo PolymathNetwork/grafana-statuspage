@@ -1,7 +1,7 @@
 # grafana-statuspage
 Grafana-StatusPage.io connector
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/getconversio/grafana-statuspage)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PolymathNetwork/grafana-statuspage)
 
 Use the above button to create a new Heroku App to connect Grafana and StatusPage. You need to specify a `STATUSPAGE_API_KEY` and `STATUSPAGE_PAGE_ID` config settings in the newly created application.
 
