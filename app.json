@@ -1,7 +1,7 @@
 {
   "name": "grafana-statuspage",
   "description": "Grafana-StatusPage connector",
-  "repository": "https://github.com/getconversio/grafana-statuspage.git",
+  "repository": "https://github.com/PolymathNetwork/grafana-statuspage.git",
   "scripts": {},
   "env": {
     "STATUSPAGE_API_KEY": {
