@@ -13,8 +13,8 @@ Use latest version of Grafana that enables the Alerting feature, then create a n
 
 Where `componentId` is the id in your StatusPage.io component url.
 
-By default on `alerting` webhook from Grafana, it will post a `degraded_performance` to StatusPage. You can override the status in the url:
+By default on `alerting` webhook from Grafana, it will post a `partial_outage` to StatusPage. You can override the status in the url:
 
     https://yourapp.herokuapp.com/grafana/{componentId}/{status}
 
-    e.g. https://yourapp.herokuapp.com/grafana/dja8902jx/partial_outage
+    e.g. https://yourapp.herokuapp.com/grafana/dja8902jx/major_outage
